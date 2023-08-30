@@ -18,4 +18,4 @@ git commit: Este comando captura una instantánea de los cambios preparados en e
 
 git push: Se usa para cargar el contenido del repositorio local a un remositorio remoto.
 
-git merge:
+git merge: Este comando nos permite tomar las lineas independientes de desarrollo creaas por git branch e intergrarlas en una sola rama.
