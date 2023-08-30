@@ -12,7 +12,7 @@ git log:Esta herramienta permite explorar el historial del repositorio.
 
 git branch:Nos permite crear, enumerar y eliminar ramas, asi mismo cambiar su nombre.
 
-git add:
+git add: Esta herrmiantas nos permite añadir un cambio en el directorio de trabajo en el entorno de ensayo.
 
 git commit:
 
