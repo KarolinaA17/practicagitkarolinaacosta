@@ -8,7 +8,7 @@ git pull: Este comando se empleaa para extraer y descargar contenido desde un re
 
 git checkout: Este comando permite desplazarnos entre las ramas creadas por git branch.
 
-git log:
+git log:Esta herramienta permite explorar el historial del repositorio.
 
 git branch:
 
