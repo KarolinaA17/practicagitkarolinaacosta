@@ -14,7 +14,7 @@ git branch:Nos permite crear, enumerar y eliminar ramas, asi mismo cambiar su no
 
 git add: Esta herrmiantas nos permite añadir un cambio en el directorio de trabajo en el entorno de ensayo.
 
-git commit:
+git commit: Este comando captura una instantánea de los cambios preparados en ese momento del proyecto.
 
 git push:
 
