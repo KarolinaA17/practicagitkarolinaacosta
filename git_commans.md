@@ -16,6 +16,6 @@ git add: Esta herrmiantas nos permite añadir un cambio en el directorio de trab
 
 git commit: Este comando captura una instantánea de los cambios preparados en ese momento del proyecto.
 
-git push:
+git push: Se usa para cargar el contenido del repositorio local a un remositorio remoto.
 
 git merge:
