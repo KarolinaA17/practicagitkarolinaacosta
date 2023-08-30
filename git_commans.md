@@ -10,7 +10,7 @@ git checkout: Este comando permite desplazarnos entre las ramas creadas por git 
 
 git log:Esta herramienta permite explorar el historial del repositorio.
 
-git branch:
+git branch:Nos permite crear, enumerar y eliminar ramas, asi mismo cambiar su nombre.
 
 git add:
 
