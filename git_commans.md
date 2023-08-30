@@ -6,7 +6,7 @@ git clone: Este comando se utiliza principalmente para copiar un repositorio en 
 
 git pull: Este comando se empleaa para extraer y descargar contenido desde un repositorio remoto y actualizarlo al instante en el repositorio local para reflejar el contenido.
 
-git checkout:
+git checkout: Este comando permite desplazarnos entre las ramas creadas por git branch.
 
 git log:
 
